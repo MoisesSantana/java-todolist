@@ -1,20 +1,3 @@
-/**
- * This class represents a Spring Boot project that can be run with Maven.
- * To run the project, follow these steps:
- * 
- * 1. Make sure you have Maven installed on your system.
- * 2. Open a terminal or command prompt and navigate to the root directory of the project.
- * 3. Run the command "mvn spring-boot:run" to start the application.
- * 4. Once the application has started, you can access it by navigating to http://localhost:8080 in your web browser.
- */
-# Todo List Project
-
-This project is a simple Todo List application that allows users to create, read, update, and delete tasks.
-
-## Installation
-
-To install the project, simply clone the repository and run the following command:
-
 <h1 align="center">
   <img src="https://avatars.githubusercontent.com/u/317776?v=4" width="100px" alt="Spring Boot">
 </h1>
